@@ -1,0 +1,4 @@
+{
+	"crawlUrl": "http://redhat.com",
+	"crawlApi": "http://localhost:8080/crawldata/getDomainData",
+}
